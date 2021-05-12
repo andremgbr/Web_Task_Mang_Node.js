@@ -1,0 +1,26 @@
+{
+  "name": "web_task_api",
+  "version": "1.0.0",
+  "description": "API NODE.JS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andremgbr/Web_Task_Mang_Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andremgbr/Web_Task_Mang_Node.js/issues"
+  },
+  "homepage": "https://github.com/andremgbr/Web_Task_Mang_Node.js#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.0.2"
+  }
+}
